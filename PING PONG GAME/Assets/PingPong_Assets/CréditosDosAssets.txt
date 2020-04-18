@@ -1,0 +1,19 @@
+Créditos dos Assets - Curso: Crie um Jogo de Ping Pong 2D na Unity e C#! | Canal no YouTube: Desenvolvendo Jogos
+
+Efeitos Sonoros:
+
+Hit da Bola | NoiseCollector (https://freesound.org/people/NoiseCollector/)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Marcando Ponto | LittleRobotSoundFactory (https://freesound.org/people/LittleRobotSoundFactory/)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Font:
+
+Upheavtt
+
+--- -- ---
+
+Confira mais Aulas de Desenvolvimento de Jogos no canal Desenvolvendo Jogos: https://www.youtube.com/channel/UCritF2GpRC5Q8FQKqGUtrcQ
